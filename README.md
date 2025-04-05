@@ -1,4 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6E96&width=435&lines=My+name+is+Isabella+Cristina+Reis+de+Arruda;I'm+from+Brazil)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=5018&pause=997&color=FF6E96&width=942&height=55&lines=Welcome!+My+name+is+Isabella+Cristina+Reis+de+Arruda;I'm+from+Brazil...;I+have+18+year+old!)](https://git.io/typing-svg)
+
+
+
 ###
 
 <div align="center">
